@@ -34,7 +34,7 @@ In short binary tree is a tree data structure in which each node has at most two
 
 *In a binary search tree, in-order traversal retrieves data in sorted order*
 
-## Post-order (LRN)
+### Post-order (LRN)
 1. Check if the current node is empty or null.
 2. Traverse the left subtree by recursively calling the post-order function.
 3. Traverse the right subtree by recursively calling the post-order function.
